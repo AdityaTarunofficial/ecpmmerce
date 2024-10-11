@@ -12,7 +12,7 @@ const SignUp = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            await axios.post('http://localhost:5000/api/users/signup', { name, email, password });
+            await axios.post('https://ecpmmerce.onrender.com/api/users/signup', { name, email, password });
             alert('Sign up successful! Please log in.');
             navigate('/login');
         } catch (error) {
