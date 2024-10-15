@@ -69,6 +69,22 @@ Welcome to the **E-Commerce Store** project! This web application allows users t
    ```
 5. Create a pull request.
 
+
+
+## Screenshots
+
+### Sign Up Page
+![Sign Up](./signup.png)
+
+### Product Listings Page
+![Product Listings](./Productlisting.png)
+
+### Admin Dashboard Page
+![Admin Dashboard](./admindashboard.png)
+
+### Login Page
+![Login Portal](./login.png)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
