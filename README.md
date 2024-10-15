@@ -74,7 +74,7 @@ Welcome to the **E-Commerce Store** project! This web application allows users t
 ## Screenshots
 
 ### Sign Up Page
-![Sign Up](./signup.png)
+![Sign Up](./signuppage.png)
 
 ### Product Listings Page
 ![Product Listings](./Productlisting.png)
