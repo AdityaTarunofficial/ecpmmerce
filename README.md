@@ -5,7 +5,7 @@ Welcome to the **E-Commerce Store** project! This web application allows users t
 
 ## 🌐 **Live Demo**
 Check out the live version of the chatbot here:  
-[**Hosted Chatbot Website**](https://ecpmmerce-wmsg.vercel.app/)
+[**Hosted Website**](https://ecpmmerce-wmsg.vercel.app/)
 
 ## 📦 Features
 
