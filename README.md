@@ -85,15 +85,4 @@ Welcome to the **E-Commerce Store** project! This web application allows users t
 ### Login Page
 ![Login Portal](./logipage.png)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Acknowledgements
-
-- Inspired by modern e-commerce platforms
-- Special thanks to the contributors and the open-source community!
-
----
-
-Feel free to modify any sections to better fit your project or preferences!
