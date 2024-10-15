@@ -2,6 +2,11 @@
 
 Welcome to the **E-Commerce Store** project! This web application allows users to explore a wide range of products, manage their shopping carts, and enjoy a seamless shopping experience. Built with React and Node.js, it's perfect for learning how to create modern web applications.
 
+
+## 🌐 **Live Demo**
+Check out the live version of the chatbot here:  
+[**Hosted Chatbot Website**](https://ecpmmerce-wmsg.vercel.app/)
+
 ## 📦 Features
 
 - **Product Listing**: Browse through a variety of products with images, names, and prices.
