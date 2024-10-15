@@ -83,7 +83,7 @@ Welcome to the **E-Commerce Store** project! This web application allows users t
 ![Admin Dashboard](./admindashboard.png)
 
 ### Login Page
-![Login Portal](./login.png)
+![Login Portal](./logipage.png)
 
 ## 📄 License
 
